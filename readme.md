@@ -34,7 +34,7 @@ strawberry server app
 
 ```
 
-## 📄 Bug reports, feature requests, etc
+### 📄 Bug reports, feature requests, etc
 
 This is an ongoing project and I welcome contributions and suggestions! Feel free to submit a PR.
 
