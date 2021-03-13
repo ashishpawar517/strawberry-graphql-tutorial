@@ -24,7 +24,7 @@ Strawberry is Python GraphQL library based on dataclasses.
 
 
 ```sh
-# install coderedcms
+# install strawberry-graphql
 pip install -r requirements.txt 
 
 # create app.py having all the straberry graphql server schema, mutations etc.
