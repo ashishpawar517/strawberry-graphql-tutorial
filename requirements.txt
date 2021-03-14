@@ -1,1 +1,1 @@
-strawberry-graphql
+strawberry-graphql[debug-server]
